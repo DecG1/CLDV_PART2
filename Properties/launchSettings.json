@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Functions_App_CLDV": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7019",
+      "launchBrowser": false
+    }
+  }
+}
